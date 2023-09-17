@@ -1,0 +1,15 @@
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.csproj.AssemblyReference.cache
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.AssemblyInfoInputs.cache
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.AssemblyInfo.cs
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.csproj.CoreCompileInputs.cache
+C:\Users\15154\source\repos\BillTipTaxDeters\bin\Debug\net6.0\BillTipTaxDeters.exe
+C:\Users\15154\source\repos\BillTipTaxDeters\bin\Debug\net6.0\BillTipTaxDeters.deps.json
+C:\Users\15154\source\repos\BillTipTaxDeters\bin\Debug\net6.0\BillTipTaxDeters.runtimeconfig.json
+C:\Users\15154\source\repos\BillTipTaxDeters\bin\Debug\net6.0\BillTipTaxDeters.dll
+C:\Users\15154\source\repos\BillTipTaxDeters\bin\Debug\net6.0\BillTipTaxDeters.pdb
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.dll
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\refint\BillTipTaxDeters.dll
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.pdb
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\BillTipTaxDeters.genruntimeconfig.cache
+C:\Users\15154\source\repos\BillTipTaxDeters\obj\Debug\net6.0\ref\BillTipTaxDeters.dll

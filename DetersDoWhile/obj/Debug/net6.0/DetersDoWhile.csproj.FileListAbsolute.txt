@@ -1,0 +1,15 @@
+C:\Users\15154\source\repos\DetersDoWhile\bin\Debug\net6.0\DetersDoWhile.exe
+C:\Users\15154\source\repos\DetersDoWhile\bin\Debug\net6.0\DetersDoWhile.deps.json
+C:\Users\15154\source\repos\DetersDoWhile\bin\Debug\net6.0\DetersDoWhile.runtimeconfig.json
+C:\Users\15154\source\repos\DetersDoWhile\bin\Debug\net6.0\DetersDoWhile.dll
+C:\Users\15154\source\repos\DetersDoWhile\bin\Debug\net6.0\DetersDoWhile.pdb
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.csproj.AssemblyReference.cache
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.AssemblyInfoInputs.cache
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.AssemblyInfo.cs
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.dll
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\refint\DetersDoWhile.dll
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.pdb
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\DetersDoWhile.genruntimeconfig.cache
+C:\Users\15154\source\repos\DetersDoWhile\obj\Debug\net6.0\ref\DetersDoWhile.dll
