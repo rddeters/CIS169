@@ -1,0 +1,15 @@
+C:\Users\15154\source\repos\ReadWriteFIle\bin\Debug\net6.0\ReadWriteFIle.exe
+C:\Users\15154\source\repos\ReadWriteFIle\bin\Debug\net6.0\ReadWriteFIle.deps.json
+C:\Users\15154\source\repos\ReadWriteFIle\bin\Debug\net6.0\ReadWriteFIle.runtimeconfig.json
+C:\Users\15154\source\repos\ReadWriteFIle\bin\Debug\net6.0\ReadWriteFIle.dll
+C:\Users\15154\source\repos\ReadWriteFIle\bin\Debug\net6.0\ReadWriteFIle.pdb
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.csproj.AssemblyReference.cache
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.AssemblyInfoInputs.cache
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.AssemblyInfo.cs
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.csproj.CoreCompileInputs.cache
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.dll
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\refint\ReadWriteFIle.dll
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.pdb
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ReadWriteFIle.genruntimeconfig.cache
+C:\Users\15154\source\repos\ReadWriteFIle\obj\Debug\net6.0\ref\ReadWriteFIle.dll

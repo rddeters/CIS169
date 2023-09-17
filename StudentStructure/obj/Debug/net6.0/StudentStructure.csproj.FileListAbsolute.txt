@@ -1,0 +1,15 @@
+C:\Users\15154\source\repos\StudentStructure\bin\Debug\net6.0\StudentStructure.exe
+C:\Users\15154\source\repos\StudentStructure\bin\Debug\net6.0\StudentStructure.deps.json
+C:\Users\15154\source\repos\StudentStructure\bin\Debug\net6.0\StudentStructure.runtimeconfig.json
+C:\Users\15154\source\repos\StudentStructure\bin\Debug\net6.0\StudentStructure.dll
+C:\Users\15154\source\repos\StudentStructure\bin\Debug\net6.0\StudentStructure.pdb
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.csproj.AssemblyReference.cache
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.AssemblyInfoInputs.cache
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.AssemblyInfo.cs
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.csproj.CoreCompileInputs.cache
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.dll
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\refint\StudentStructure.dll
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.pdb
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\StudentStructure.genruntimeconfig.cache
+C:\Users\15154\source\repos\StudentStructure\obj\Debug\net6.0\ref\StudentStructure.dll
